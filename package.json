@@ -1,0 +1,29 @@
+{
+  "name": "mv-wk1-helloworld",
+  "version": "1.0.0",
+  "description": "Microverse Technical Curriculum - Week 1",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuaivie/mv-wk1-helloWorld.git"
+  },
+  "keywords": [
+    "linters"
+  ],
+  "author": "Joshua & Emmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuaivie/mv-wk1-helloWorld/issues"
+  },
+  "homepage": "https://github.com/joshuaivie/mv-wk1-helloWorld#readme",
+  "devDependencies": {
+    "hint": "^6.0.7",
+    "stylelint": "^13.3.3",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.17.2"
+  }
+}
